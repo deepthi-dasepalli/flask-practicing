@@ -1,0 +1,18 @@
+
+body{
+    background-color:aquamarine;
+    text-align:corner;
+    font-size:larger;
+}
+h1{
+    color:pink;
+    text-align:center;
+    font-family:'calibri';
+    font-size:10px;
+}
+p{
+    color:purple;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:20px;
+    text-align: end;
+}
